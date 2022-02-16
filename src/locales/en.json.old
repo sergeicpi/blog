@@ -1,0 +1,16 @@
+{
+  "message": "hello i18n !!",
+  "hello": "{msg} world",
+  "hello2": "{0} world",
+  "car": "car | cars",
+  "apple": "no apples | one apple | {count} apples",
+  "menu": {
+    "home": "Home",
+    "info": "Info",
+    "about": "About"
+  },
+  "buttons": {
+    "button-logout": "Logout"
+  },
+  "footer-text": "Freebie Designed By Kishore for Project365.Design"
+}

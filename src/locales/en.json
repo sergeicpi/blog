@@ -1,0 +1,24 @@
+{
+  "empty-page": "Page empty",
+  "menu": {
+    "home": "Home",
+    "info": "Info",
+    "about": "About"
+  },
+  "buttons": {
+    "button-logout": "Logout"
+  },
+  "footer-text": "Freebie Designed By Kishore for Project365.Design",
+  "article": {
+    "destination-title": "Destination",
+    "added-title": "Added",
+    "view-more-button": "View more",
+    "back-button": "Back to articles"
+  },
+  "404": {
+    "text-not-found": "Page not found! Back to home page",
+    "button-go-home": "Back to home"
+  },
+  "search": "Search",
+  "tooltip": "Change view"
+}

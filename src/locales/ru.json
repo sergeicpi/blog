@@ -1,0 +1,24 @@
+{
+  "empty-page": "Пока здесь пусто",
+  "menu": {
+    "home": "Главная",
+    "info": "Инфо",
+    "about": "О нас"
+  },
+  "buttons": {
+    "button-logout": "Выход"
+  },
+  "footer-text": "Freebie разработано Kishore для Project365.Design",
+  "article": {
+    "destination-title": "Место",
+    "added-title": "Автор",
+    "view-more-button": "Узнать больше",
+    "back-button": "На Главную"
+  },
+  "404": {
+    "text-not-found": "Страница не найдена! Вернитесь на главную страницу",
+    "button-go-home": "На Главную"
+  },
+  "search": "Найти",
+  "tooltip": "Изменить вид"
+}
